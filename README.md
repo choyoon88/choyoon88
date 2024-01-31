@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @choyoon88
-- 👀 I’m a student in CodeInstitute. Currently working as a metadata specialist but pushing myself to move on to be a software developer. 
+- 👀 I’m a student in CodeInstitute. Currently working as a metadata specialist but pushing myself to move on to be a software developer specializing in data analytics and predictions. 
 - 🌱 I’m currently learning coding languages like HTML, CSS, JavaScript, Python and Django. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
