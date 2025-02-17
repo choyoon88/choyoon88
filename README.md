@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @choyoon88
+- 👋 Hi, I’m Eunae. You can call me Una
 - 👀 I’m a ambitious junior data analyst willing to move ahead to predictive analytics field. 
 - 🌱 I’m currently focusing on building my skills with Python and making my own data analytic projects using various bid data.
 - 💞️ I’m looking to collaborate on ...
